@@ -1,0 +1,25 @@
+
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+
+.center{
+    display: inline-block;
+    width: 700px;
+    border: 10px solid green;
+    text-align: center;
+    /* padding: 50px; */
+    /* margin: 20px; */
+}
+
+ul{
+    display: inline-block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    display: inline-block;
+}
